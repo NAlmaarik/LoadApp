@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="default_text_size">20sp</dimen>
+    <dimen name="margin_top">16dp</dimen>
+    <dimen name="margin_start">16dp</dimen>
+    <dimen name="margin_end">16dp</dimen>
+    <dimen name="margin_horizontal">16dp</dimen>
+    <dimen name="margin_bottom">48dp</dimen>
+    <dimen name="padding">16dp</dimen>
+    <dimen name="root_margin_top">54dp</dimen>
+</resources>
